@@ -5,6 +5,6 @@ Requirements
 Follow the steps (1-3) in this section to create one - https://cam.teradici.com/api/docs#section/Getting-Started/Prerequisites
 
 2. Python3 and the following Python modules:
-- csv
-- pprint
-- requests
+  - csv
+  - pprint
+  - requests
